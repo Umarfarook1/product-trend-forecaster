@@ -1,0 +1,49 @@
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+build/
+dist/
+
+# Virtual envs
+.venv/
+venv/
+env/
+
+# Test / lint / type caches
+.pytest_cache/
+.mypy_cache/
+.ruff_cache/
+.coverage
+htmlcov/
+
+# Data + models
+data/
+models/
+checkpoints/
+*.pt
+*.pth
+*.csv
+*.parquet
+*.feather
+mlruns/
+
+# Forecast outputs
+forecasts/
+plots/
+
+# Logs + temp
+*.log
+*.tmp
+nohup.out
+
+# Environment + secrets
+.env*
+!.env.example
+
+# IDE / OS
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
+*.swp
