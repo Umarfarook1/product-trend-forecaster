@@ -131,3 +131,11 @@ MIT, see [`LICENSE`](LICENSE).
 
 **Umarfarook Gurramkonda** &middot; AI Engineer
 [GitHub](https://github.com/Umarfarook1) &middot; [Portfolio](https://umarfarook-ai.vercel.app)
+
+## Installation
+
+```bash
+git clone https://github.com/Umarfarook1/product-trend-forecaster
+cd product-trend-forecaster
+pip install -r requirements.txt
+```
