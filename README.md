@@ -139,3 +139,11 @@ git clone https://github.com/Umarfarook1/product-trend-forecaster
 cd product-trend-forecaster
 pip install -r requirements.txt
 ```
+
+## Usage
+
+Basic usage of product-trend-forecaster:
+
+```bash
+python -m product-trend-forecaster --help
+```
