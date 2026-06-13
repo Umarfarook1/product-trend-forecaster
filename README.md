@@ -147,3 +147,9 @@ Basic usage of product-trend-forecaster:
 ```bash
 python -m product-trend-forecaster --help
 ```
+
+## Roadmap
+
+- [ ] Core functionality
+- [ ] Tests and CI
+- [ ] Documentation and examples
